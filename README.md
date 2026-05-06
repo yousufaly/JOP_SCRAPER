@@ -14,10 +14,7 @@ https://realpython.github.io/fake-jobs/
 
 Install dependencies:
 
-````bash
-pip install -r requirements.txt
-
-🚀 Usage
 ```bash
+pip install -r requirements.txt
 python script.py
-````
+```
