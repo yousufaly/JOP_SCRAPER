@@ -1,20 +1,18 @@
-# 🕵️ Job Scraper
+# Job Scraper CLI Tool
 
-## 📌 Description
+A Python CLI tool to scrape job listings and export them to CSV.
 
-A simple Python script that scrapes job listings from a demo website and saves them into a CSV file.
+## Features
 
-## 🌐 Website Used
+- Filter by keyword
+- Save results to CSV
+- Simple CLI interface
 
-https://realpython.github.io/fake-jobs/
+## Usage
 
-## ⚙️ Requirements
+python main.py --keyword python
 
-- Python 3.x
+## Tech
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-python script.py
-```
+- requests
+- BeautifulSoup
