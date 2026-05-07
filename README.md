@@ -10,17 +10,35 @@ A Python-based CLI tool for scraping job listings, filtering results by keywords
 - CLI-based interface
 - Lightweight and fast
 
-## Usage
+## Use Cases
+
+- Data collection
+- Market research
+- Job monitoring
+- Recruitment automation
+- Lead generation
+
+## Installation
 
 ```bash
+git clone https://github.com/yousufaly/JOP_SCRAPER.git
+
+cd JOP_SCRAPER
+
 pip install -r requirements.txt
-python main.py --keyword python
 ```
 
-## Tech
+## Usage
 
-- requests
+python main.py --keyword python
+
+## Technologies Used
+
+- Python
+- Requests
 - BeautifulSoup
+- CSV
+- argparse
 
 ## Screenshot
 
