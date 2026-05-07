@@ -1,10 +1,8 @@
 job-scraper/
 │
-├── main.py
-├── scraper/
-│   └── scraper.py
-├── data/
-│   └── jobs.csv
+├── job-scraper.txt
+├── job_scraper.py
+├── jobs.csv
 ├── requirements.txt
 ├── README.md
 └── .gitignore
