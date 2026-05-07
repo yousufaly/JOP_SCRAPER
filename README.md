@@ -1,12 +1,14 @@
 # Job Scraper CLI Tool
 
-A Python CLI tool to scrape job listings and export them to CSV.
+A Python-based CLI tool for scraping job listings, filtering results by keywords, and exporting structured data into CSV files.
 
 ## Features
 
-- Filter by keyword
-- Save results to CSV
-- Simple CLI interface
+- Scrape job listings from websites
+- Filter jobs by keyword
+- Export data to CSV
+- CLI-based interface
+- Lightweight and fast
 
 ## Usage
 
@@ -19,3 +21,7 @@ python main.py --keyword python
 
 - requests
 - BeautifulSoup
+
+## Screenshot
+
+![Demo](screenshots/demo.png)
