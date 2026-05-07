@@ -10,7 +10,10 @@ A Python CLI tool to scrape job listings and export them to CSV.
 
 ## Usage
 
+```bash
+pip install -r requirements.txt
 python main.py --keyword python
+```
 
 ## Tech
 
